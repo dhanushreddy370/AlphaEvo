@@ -1,0 +1,48 @@
+==================================================
+=    Strategy Performance & Forensics Report    =
+==================================================
+
+--- I. Overall Performance Summary ---
+Initial Capital:           $10,000.00
+Final Capital:             $17,378,305.83
+Total Net Profit:          $17,368,305.83 (173683.06%)
+CAGR:                      158537166425448.97%
+Maximum Drawdown:          $155,717.43 (0.90%)
+
+--- II. Backtesting Metrics ---
+Total Trades:              1097
+Win Rate:                  85.05%
+Profit Factor:             7.04
+Expectancy per Trade:      $15,832.55
+Average Win:               $21,695.60
+Average Loss:              $17,522.49
+Longest Winning Streak:    26 trades
+Longest Losing Streak:     4 trades
+
+--- III. Advanced Performance Ratios ---
+Sharpe Ratio:              17.33
+Sortino Ratio:             359.19
+Calmar Ratio:              176929927523105.50
+
+--- IV. Risk-to-Reward Ratio Distribution ---
+rr_range
+0-0.5        0
+0.5-1.0      0
+1.0-1.5      0
+1.5-2.0    116
+2.0-2.5    981
+2.5-3.0      0
+3.0-5.0      0
+>5.0         0
+
+--- V. Stop-Loss Distribution ---
+sl_range
+0-5 pips      531
+6-10 pips     312
+11-15 pips    120
+16-20 pips     67
+20+ pips       67
+
+--- VI. Trade Timing Forensics (Analysis of Losing Trades) ---
+No losing trades to analyze.
+==================================================
